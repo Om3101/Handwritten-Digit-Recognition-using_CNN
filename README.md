@@ -2,10 +2,6 @@
 
 This project is a web-based application that recognizes handwritten digits (0–9) using a Convolutional Neural Network (CNN). The app is built with **Streamlit** and provides an intuitive interface for users to draw digits and get predictions in real-time.
 
-## 🚀 Demo
-
-**🔗 Hosted on Streamlit:** [Click here to try it out](https://YOUR-STREAMLIT-APP-LINK)
-
 ---
 
 ## 🧠 Project Highlights
