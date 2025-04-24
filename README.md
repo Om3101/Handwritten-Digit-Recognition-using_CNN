@@ -17,7 +17,7 @@ This project is a web-based application that recognizes handwritten digits (0–
 ## 📸 Screenshots
 
 <img src="screenshots/image.png" width="600">
-<img src="screenshots/Screenshot 2025-04-24 154026.png" width = 500">
+<img src="screenshots/Screenshot 2025-04-24 154026.png" width = 450">
 
 ---
 
